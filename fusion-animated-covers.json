@@ -1,0 +1,14 @@
+[
+  {
+    "id": "harry-potter",
+    "title": "Harry Potter",
+    "videoURL": "https://raw.githubusercontent.com/LAKI7-bit/fusion-animated-collections/main/Harry%20Potter.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/LAKI7-bit/fusion-animated-collections/main/Harry%20Potter.jpeg"
+  },
+  {
+    "id": "pila",
+    "title": "Piła",
+    "videoURL": "https://raw.githubusercontent.com/LAKI7-bit/fusion-animated-collections/main/Pi%C5%82a.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/LAKI7-bit/fusion-animated-collections/main/Pi%C5%82a.jpeg"
+  }
+]
